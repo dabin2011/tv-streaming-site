@@ -1,5 +1,5 @@
 {
-  "name": "tv-streaming-frontend",
+  "name": "tv-streaming-client",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
